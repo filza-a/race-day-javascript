@@ -13,7 +13,7 @@ Race number:
   
 Start time:
 
-<ul></ul>Adult registrants run at 9:30 am or 11:00 am.
-Early adults run at 9:30 am.
-Late adults run at 11:00 am.
-Youth registrants run at 12:30 pm (regardless of registration).
+<ul>Adult registrants run at 9:30 am or 11:00 am.</ul>
+<ul>Early adults run at 9:30 am.</ul>
+<ul>Late adults run at 11:00 am.</ul>
+<ul>Youth registrants run at 12:30 pm (regardless of registration).</ul>
